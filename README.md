@@ -1,6 +1,6 @@
 # get vim-config
 ```
-git clone https://github.com/llynch/vim-config.git vim-config
+git clone https://github.com/yohtm/vim-config.git vim-config
 ```
 
 # setup vim-config
