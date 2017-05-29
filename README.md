@@ -20,3 +20,8 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 :PluginInstall
 ```
+
+# install vim-gtk for clipboard compatibility
+```
+sudo apt-get install vim-gtk
+```
